@@ -1,0 +1,14 @@
+/**
+ * Res Lemma Gutenberg CSS
+ *
+ * @package     res-lemma
+ * @copyright   Copyright (c) 2021, Vantage Themes
+ * @license     http://opensource.org/licenses/gpl-2.0.php GNU Public License
+*/
+
+.editor-post-title__block .editor-post-title__input,
+.edit-post-visual-editor,
+.edit-post-visual-editor input[type=text].editor-default-block-appender__content,
+.edit-post-visual-editor p {
+	font-family: 'Source Sans Pro'
+}

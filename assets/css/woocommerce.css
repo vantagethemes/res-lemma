@@ -1,0 +1,60 @@
+/**
+ * Res Lemma WooCommerce CSS
+ *
+ * @package     res-lemma
+ * @copyright   Copyright (c) 2021, Vantage Themes
+ * @license     http://opensource.org/licenses/gpl-2.0.php GNU Public License
+*/
+
+.woocommerce .content-area {
+	width: 100%;
+	float: none;
+	clear: both
+}
+
+.woocommerce ul.products li.product .onsale {
+    top: 10px;
+    right: inherit;
+    left: 10px;
+    margin: 0;
+    border-radius: 0;
+    padding: 2px 5px !important;
+    min-height: inherit !important;
+    min-width: inherit !important;
+    font-size: 1em;
+    font-weight: 700;
+    position: absolute;
+    text-align: center;
+    line-height:  inherit !important;
+}
+
+.woocommerce-shop .product,
+.related .product {
+    text-align: center;
+}
+
+.woocommerce ul.products li.product .price {
+    color: #999;
+}
+
+.woocommerce-info::before,
+.woocommerce-message::before,
+.woocommerce a.added_to_cart {
+    color: #999;
+    margin-left: 10px;
+}
+
+.woocommerce #respond input#submit.alt, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt,
+.woocommerce span.onsale {
+    background: #999;
+}
+
+.woocommerce #respond input#submit.alt:hover, .woocommerce a.button.alt:hover, .woocommerce button.button.alt:hover, .woocommerce input.button.alt:hover {
+    background: #000;
+}
+
+
+.woocommerce-info,
+.woocommerce-message {
+    border-top-color: #999;
+}
