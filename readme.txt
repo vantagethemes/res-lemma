@@ -40,6 +40,3 @@ Res Lemma includes support for WooCommerce.
 * normalize.css http://necolas.github.io/normalize.css/, (C) 2012-2016 Nicolas Gallagher and Jonathan Neal, [MIT](http://opensource.org/licenses/MIT)
 
 == Screenshot Licenses ==
-Screenshot image from StockSnap.io
-License: CC0 Public Domain
-https://stocksnap.io/photo/M56YIGPICM
